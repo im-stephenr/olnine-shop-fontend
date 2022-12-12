@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Toy",
+      "description": "Just a test product",
+      "price": 9,
+      "image": "",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Toy 2",
+      "description": "Just a test product 2",
+      "price": 9,
+      "image": "",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Toy 3",
+      "description": "Just a test product 3",
+      "price": 9,
+      "image": "",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "name": "Toy 4",
+      "description": "Just a test product 4",
+      "price": 9,
+      "image": "",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Toy 5",
+      "description": "Just a test product 5",
+      "price": 9,
+      "image": "",
+      "rating": 1
+    },
+    {
+      "id": 6,
+      "name": "Toy 6",
+      "description": "Just a test product 6",
+      "price": 9,
+      "image": "",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Toy 7",
+      "description": "Just a test product 7",
+      "price": 9,
+      "image": "",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Toy 8",
+      "description": "Just a test product 8",
+      "price": 9,
+      "image": "",
+      "rating": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 8,
+      "name": "Toy 8",
+      "description": "Just a test product 8",
+      "price": 9,
+      "image": "",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Toy 3",
+      "description": "Just a test product 3",
+      "price": 9,
+      "image": "",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "name": "Toy 4",
+      "description": "Just a test product 4",
+      "price": 9,
+      "image": "",
+      "rating": 2
+    }
+  ]
+}

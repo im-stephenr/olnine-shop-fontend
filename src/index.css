@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+  width: 90px;
+  margin: auto;
+  margin-top: 5px;
+}
+.carousel {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+.container {
+  background-color: #f6f9fc;
+}
+footer {
+  color: #fff !important;
+}
+footer a {
+  color: #fff !important;
+}
+.border-1 {
+  border: 1px solid !important;
+}
